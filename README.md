@@ -1,9 +1,15 @@
 # Auromake Community & Discussions
 The dedicated community for The Auromake Blog (www.auromake.com/blog), the products deployed(www.auromake.com/products) or being developed by Auromake.
 
-## Community Content & Conduct
+## Community Use & Content
 
-- Opinions expressed in discussions belong to their respective authors.
-- Participation in this repository does not grant ownership or endorsement.
-- Maintainers reserve the right to moderate discussions to maintain a respectful
-  and constructive environment.
+This repository hosts community discussions and shared knowledge related to
+Auromake and its products.
+
+- All opinions and contributions belong to their respective authors.
+- Participation does not imply endorsement by Auromake.
+- Content is shared for educational and informational purposes only.
+- Maintainers reserve the right to moderate, edit, or remove content to ensure
+  a respectful, constructive, and inclusive environment.
+
+By participating, you agree to follow the community Code of Conduct.
