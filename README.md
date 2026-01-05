@@ -1,10 +1,6 @@
-# Auromake Community & Discussions
-The dedicated community for The Auromake Blog (www.auromake.com/blog), the products deployed(www.auromake.com/products) or being developed by Auromake.
+## Auromake Community - Content & Usage
 
-## Community Use & Content
-
-This repository hosts community discussions and shared knowledge related to
-Auromake and its products.
+This repository hosts community discussions and shared knowledge related to Auromake(www.auromake.com), its blog (www.auromake.com/blog) and its products deployed(www.auromake.com/products).
 
 - All opinions and contributions belong to their respective authors.
 - Participation does not imply endorsement by Auromake.
