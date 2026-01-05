@@ -13,3 +13,6 @@ Auromake and its products.
   a respectful, constructive, and inclusive environment.
 
 By participating, you agree to follow the community Code of Conduct.
+
+📜 License: CC BY-NC 4.0
+🤝 Code of Conduct: CODE_OF_CONDUCT.md
