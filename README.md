@@ -14,5 +14,5 @@ Auromake and its products.
 
 By participating, you agree to follow the community Code of Conduct.
 
-📜 License: CC BY-NC 4.0
-🤝 Code of Conduct: CODE_OF_CONDUCT.md
+📜 License: [CC BY-NC 4.0](LICENSE)\
+🤝 Code of Conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
